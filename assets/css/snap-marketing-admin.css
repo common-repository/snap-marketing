@@ -1,0 +1,34 @@
+form.snap-marketing input[type="text"],
+form.snap-marketing input[type="password"],
+form.snap-marketing select,
+form.snap-marketing textarea {
+	width: 400px;
+}
+form.snap-marketing input#submit {
+	margin-left: 0 !important;
+}
+.img_Snap_TreatmentLogo {
+	width: 100px;
+}
+.post-type-snap_treatments textarea#content {
+	height: 100px !important;
+}
+.desciption_box{
+	display: none;
+}
+div#snap-treatments-extra-options th {
+	width: 99px;
+	text-align: right;
+	padding: 10px 3px;
+}
+#TreatmentLogo {
+	width: 90%;
+	margin: 10px 0;
+}
+.snap_marketing_banner.active {
+	max-width: 500px;
+	overflow: scroll;
+	max-height: 500px;
+		padding: 20px;
+	width: 400px;
+}

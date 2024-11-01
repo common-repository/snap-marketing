@@ -1,0 +1,291 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;700&display=swap');
+div.marketing-modal,
+div.marketing-modal p,
+div.marketing-modal span,
+div.marketing-modal a {
+	font-family: 'Roboto';
+}
+section.snap-marketing-treatment.banner .treatment-logo {
+	display: none;
+}
+div.marketing-modal p {
+	color: #757575;
+}
+.snap-marketing-treatment {
+	max-width: 360px;
+	margin: 0 auto;
+}
+.alignment-left {
+	float: left;
+}
+.alignment-right {
+	float: right;
+}
+form.cart,.single-product .woocommerce-product-details__short-description {
+	clear: both;
+}
+.snap-marketing-treatment .treatment-logo {
+	float: left;
+	width: 90px;
+}
+
+.snap-marketing-treatment .treatment-logo img {
+	padding: 8px 0px;
+}
+
+.snap-marketing-treatment .treatment-desc {
+	float: left;
+	width: calc(100% - 90px);
+}
+
+.snap-marketing-treatment .treatment-desc a {
+	color: #143965;
+	font-weight: 700;
+	display: block;
+}
+.white-popup-block {
+	border-radius: 10px;
+	padding: 0 !important;
+}
+div.marketing-modal header {
+	padding: 20px;
+	overflow: hidden;
+}
+div.marketing-modal header img.logo {
+	float: left;
+}
+a.learn-more-dismiss {
+	float: right;
+}
+div.marketing-modal .bg {
+	position: relative;
+}
+div.marketing-modal .bg img {
+	margin: 0 !important;
+	width: 100%;
+	border-radius: 0;
+}
+div.marketing-modal .bg p {
+	font-style: normal;
+	font-weight: 600;
+	font-size: 25px;
+	line-height: 35px;
+	color: #184E90;
+	position: absolute;
+	right: 48px;
+	top: 70px;
+}
+a.learn-more-popup:focus {
+	border: 0;
+	box-shadow: 0 0 black;
+	outline: 0;
+}
+.center-content p {
+	margin: 0;
+	text-align: center;
+}
+.snap-content-area > p {
+	width: 85%;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+.snap-content-area .center-content {
+	margin: 20px auto;
+}
+.center-content p span {
+	color: #184E90;
+}
+a.get-started, a.get-started:hover {
+	background: #184E90;
+	width: 85%;
+	display: block;
+	margin: 20px auto;
+	padding: 10px;
+	text-align: center;
+	border-radius: 50px;
+	color: #fff;
+	text-decoration: none;
+}
+.treatment-desc a:focus {
+	outline: 0;
+}
+footer img {
+	display: inline-block;
+}
+div.marketing-modal footer p:first-child {
+	color: #000;
+}
+footer p {
+	margin: 0;
+}
+.white-popup-block footer {
+	padding: 0 20px 20px 20px ;
+}
+.marketing-modal{
+	position: fixed;
+	top: 0;
+	left: 0px;
+	z-index: 9999;
+	overflow: auto;
+	background-color: rgba(0, 0, 0, 0.4);
+	margin: auto;
+	width: 100%;
+	height: 100%;
+	padding: 100px 0px;
+	display: none;
+}
+.marketing-modal .marketing-modal-wrapper{
+	max-width: 640px;
+	width: 100%;
+	margin: 0 auto;
+	background-color: #fff;
+	border-radius: 10px;
+	font-family: 'Open Sans', sans-serif !important;
+	padding-bottom: 1px;
+}
+div.marketing-modal header{
+	height: 78px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+}
+div.marketing-modal header img.logo {
+	width: 76px;
+}
+.marketing-modal header a.learn-more-dismiss {
+	position: absolute;
+	top: 29px;
+	right: 21px;
+	cursor: pointer;
+}
+.marketing-modal .bg p {
+	position: absolute;
+	height: 70px;
+	right: 48px;
+	top: 64px;
+	font-weight: 600;
+	font-size: 25px;
+	line-height: 1.2;
+	text-align: right;
+	letter-spacing: 0.2px;
+	color: #184E90;
+	margin: 0;
+}
+.marketing-modal .snap-content-area {
+	margin: 0 48px;
+}
+.marketing-modal .snap-content-area .center-content p {
+	font-size: 14px;
+	color: #757575;
+	line-height: 1.5;
+	text-align: center;
+	margin: 0px auto;
+	letter-spacing: normal;
+}
+.marketing-modal .snap-content-area .center-content{
+	margin: 24px auto;
+}
+.marketing-modal .snap-content-area .center-content p span {
+	color: #184E90;
+}
+.marketing-modal .snap-content-area .get-started{
+	color: #fff;
+	max-width: 327px;
+	margin: 0 auto 32px;
+	width: 100%;
+	display: block;
+	font-size: 14px;
+}
+#snap-finance-sdk-interstitial .snap-finance-sdk-continue-btn {
+	font-family: 'Open Sans', sans-serif;
+	background: #184E90;
+	border: none;
+	border-radius: 99px;
+	color: #FFFFFF;
+	font-size: 14px;
+	padding: 16px;
+	width: 327px;
+	height: 48px;
+	line-height: 1;
+	text-transform: uppercase;
+	cursor: pointer;
+	text-align: center;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	font-weight: bold;
+	margin-bottom: 32px;
+}
+.marketing-modal .snap-content-area p {
+	margin: 0 0 30px;
+	font-weight: 400;
+	font-size: 12px;
+	color: #757575;
+	line-height: 1.5;
+	letter-spacing: 0.3px;
+	text-align: left;
+	width: 100%;
+}
+.marketing-modal footer{
+	color: #4F4F4F;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 1.2;
+	margin: 0 48px 80px 48px;
+	text-align: left;
+}
+.marketing-modal footer p img {
+	display: inline-block;
+	margin-right: 10px;
+}
+.marketing-modal footer p{
+	margin: 0;
+}
+.marketing-modal footer p:last-child{
+	display: block;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 1.2;
+	letter-spacing: 0.3px;
+	color: #757575;
+	margin: 8px 0;
+}
+
+body.open-snap-popup {
+	overflow: hidden;
+}
+body.open-snap-popup .marketing-modal{
+	display: block;
+}
+
+@media (max-width: 575px){
+	.marketing-modal .snap-content-area {
+		margin: 0 24px;
+	}
+	.marketing-modal footer{
+		margin: 0 24px 30px 24px;
+	}
+	div.marketing-modal .bg{
+		height: 190px;
+	}
+	div.marketing-modal .bg img{
+		object-fit: cover;
+		width: 100%;
+		height: 100%;
+	}
+	.marketing-modal{
+		padding: 20px 10px;
+	}
+	div.marketing-modal .bg p{
+		right: 18px;
+		top: 40px;
+		font-size: 20px;
+		line-height: 26px;
+	}
+}
+
+section.snap-marketing-treatment.as_low_as, section.snap-marketing-treatment.pre_approval {
+    display: flex;
+    align-items: center;
+}
+.treatment-desc p{margin: 0;}

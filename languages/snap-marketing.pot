@@ -1,0 +1,308 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Snap Marketing\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-28 14:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-5.5.3"
+
+#: snap-marketing-admin-side.php:314
+msgid ""
+"<b>Capture customers at top of funnel with \"Prequalification\" treatment</b>"
+"<br/>Enable the \"Prequalification\" promotional treatment on any pages of "
+"your webstore. Let customers know they have a financing option, from the "
+"start, to turn browsers into actual customers. With the preapproval "
+"application flow, if approved, customers will know exactly how much they "
+"have been approved for, giving them the motivation to transact for a higher "
+"shopping cart value on your store. As research shows, when customers know "
+"they have an approval and the amount, not only are they likely to purchase "
+"but purchase more items or a higher price point item "
+msgstr ""
+
+#: snap-marketing-admin-side.php:317
+msgid ""
+"<b>Capture customers at top of funnel with “Get Approved? treatment</b><br/>"
+"Enable the “Get Approved? promotional treatment on any pages of your "
+"webstore. Let customers know they have a financing option, from the start, "
+"to turn browsers into actual customers. With the preapproval application "
+"flow, if approved, customers will know exactly how much they have been "
+"approved for, giving them the motivation to transact for a higher shopping "
+"cart value on your store. As research shows, when customers know they have "
+"an approval and the amount, not only are they likely to purchase but "
+"purchase more items or a higher price point item "
+msgstr ""
+
+#: snap-marketing-admin-side.php:308
+msgid ""
+"<b>Offer contextual financing experience with \"Prequalification - As low "
+"as\" treatment</b><br/>Enable the \"Prequalification - As low as\" "
+"promotional treatment and get enhanced benefits of the \"Get Approved\" but "
+"customized for your product pages. Place the treatment in your product pages "
+"to give customers a glimpse of what their payments for may look like with "
+"Snap. Our research has shown that customers are more likely to apply and "
+"transact if they have an idea of how much their payments will look like with "
+"Snap."
+msgstr ""
+
+#: snap-marketing-admin-side.php:305
+msgid ""
+"<b>Offer contextual financing experience with “Get Approved – As low as? "
+"treatment</b><br/>Enable the “Get Approved – As low as? promotional "
+"treatment and get enhanced benefits of the “Get Approved? but customized for "
+"your product pages. Place the treatment in your product pages to give "
+"customers a glimpse of what their payments for may look like with Snap. Our "
+"research has shown that customers are more likely to apply and transact if "
+"they have an idea of how much their payments will look like with Snap."
+msgstr ""
+
+#: inc/snap-pre-qualification-as-low-as.php:85
+#, php-format
+msgid ""
+"<p>* This is a lease-to-own transaction. This payment is based on 52 weekly\n"
+"\t\t\t\t\tpayments for a\n"
+"\t\t\t\t\ttotal amount\n"
+"\t\t\t\t\tof $%s with a cost of lease of $%s. Your\n"
+"\t\t\t\t\ttotal amount\n"
+"\t\t\t\t\tand\n"
+"\t\t\t\t\tcost of\n"
+"\t\t\t\t\tlease may vary upon credit inquiry and approval. You do not obtain "
+"ownership\n"
+"\t\t\t\t\tuntil all\n"
+"\t\t\t\t\trequired\n"
+"\t\t\t\t\tpayments are made.</p>"
+msgstr ""
+
+#: inc/snap-get-approved-as-low-as.php:86
+#, php-format
+msgid ""
+"<p>* This is a lease-to-own transaction. This payment is based on 52 weekly\n"
+"\t\t\t\tpayments for a\n"
+"\t\t\t\ttotal amount\n"
+"\t\t\t\tof $%s with a cost of lease of $%s. Your\n"
+"\t\t\t\ttotal amount\n"
+"\t\t\t\tand\n"
+"\t\t\t\tcost of\n"
+"\t\t\t\tlease may vary upon credit inquiry and approval. You do not obtain "
+"ownership\n"
+"\t\t\t\tuntil all\n"
+"\t\t\t\trequired\n"
+"\t\t\t\tpayments are made.</p>"
+msgstr ""
+
+#: inc/snap-pre-qualification-as-low-as.php:78
+#: inc/snap-get-approved-as-low-as.php:78
+#, php-format
+msgid "<p>based on the merchandise price of <span>$%s</span>.*</p>"
+msgstr ""
+
+#: inc/snap-pre-qualification-as-low-as.php:72
+#: inc/snap-get-approved-as-low-as.php:72
+msgid "<p>Get it now, <br>pay over time</p>"
+msgstr ""
+
+#: inc/snap-pre-qualification-as-low-as.php:84
+#: inc/snap-get-approved-as-low-as.php:85
+msgid ""
+"<p>If you have a valid approval, please select Snap as your payment method "
+"at checkout.</p>"
+msgstr ""
+
+#: inc/snap-pre-qualification-as-low-as.php:77
+#: inc/snap-get-approved-as-low-as.php:77
+#, php-format
+msgid "<p>Your payments could be as low as <span>$%s/%s</span>.</p>"
+msgstr ""
+
+#: snap-marketing-admin-side.php:338
+msgid "Active?"
+msgstr ""
+
+#: snap-marketing-admin-side.php:525
+msgid "Add New"
+msgstr ""
+
+#: snap-marketing-admin-side.php:524
+msgid "Add New Treatment"
+msgstr ""
+
+#: snap-marketing-admin-side.php:349
+msgid "Alignment"
+msgstr ""
+
+#: snap-marketing-admin-side.php:522
+msgid "All Treatments"
+msgstr ""
+
+#: snap-marketing-admin-side.php:377 snap-marketing-admin-side.php:378
+msgid "Configuration"
+msgstr ""
+
+#: snap-marketing-admin-side.php:60 snap-marketing-admin-side.php:302
+msgid "Description"
+msgstr ""
+
+#: snap-marketing-admin-side.php:526
+msgid "Edit Treatment"
+msgstr ""
+
+#: snap-marketing-admin-side.php:331
+msgid "Enable in all product description pages ?"
+msgstr ""
+
+#: snap-marketing-admin-side.php:48
+msgid "Enable Snap Marketing"
+msgstr ""
+
+#: snap-marketing-admin-side.php:47
+msgid "Enable/Disable"
+msgstr ""
+
+#: snap-marketing-admin-side.php:70
+msgid "Environment"
+msgstr ""
+
+#: inc/snap-pre-qualification-as-low-as.php:46
+#: inc/snap-pre-qualification-as-low-as.php:111
+#: inc/snap-get-approved-as-low-as.php:46
+#: inc/snap-get-approved-as-low-as.php:110
+msgid "Error in processing request"
+msgstr ""
+
+#: inc/snap-pre-approval.php:4
+msgid "Get approved"
+msgstr ""
+
+#: inc/snap-pre-qualification-as-low-as.php:82
+#: inc/snap-get-approved-as-low-as.php:82
+msgid "GET STARTED"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://snapfinance.com/"
+msgstr ""
+
+#: inc/snap-get-approved-as-low-as.php:59
+msgid "Learn More"
+msgstr ""
+
+#: inc/snap-pre-qualification-as-low-as.php:56
+#: inc/snap-get-approved-as-low-as.php:56
+#, php-format
+msgid "Lease to own for as low as $%s/%s."
+msgstr ""
+
+#: snap-marketing-admin-side.php:320
+msgid "Logo URL"
+msgstr ""
+
+#: snap-marketing-admin-side.php:529
+msgid "Not Found"
+msgstr ""
+
+#: snap-marketing-admin-side.php:530
+msgid "Not found in Trash"
+msgstr ""
+
+#: snap-marketing-admin-side.php:521
+msgid "Parent Treatment"
+msgstr ""
+
+#: snap-marketing-admin-side.php:518
+msgctxt "Post Type General Name"
+msgid "Treatments"
+msgstr ""
+
+#: snap-marketing-admin-side.php:519
+msgctxt "Post Type Singular Name"
+msgid "Treatment"
+msgstr ""
+
+#: inc/snap-pre-qualification.php:4 inc/snap-pre-qualification-as-low-as.php:59
+msgid "Prequalify now!"
+msgstr ""
+
+#: snap-marketing-admin-side.php:95
+msgid "Production Client ID"
+msgstr ""
+
+#: snap-marketing-admin-side.php:101
+msgid "Production Secret Key"
+msgstr ""
+
+#: snap-marketing-admin-side.php:83
+msgid "Sandbox Client ID"
+msgstr ""
+
+#: snap-marketing-admin-side.php:89
+msgid "Sandbox Secret Key"
+msgstr ""
+
+#: snap-marketing-admin-side.php:528
+msgid "Search Treatment"
+msgstr ""
+
+#: snap-marketing-admin-side.php:361
+msgid "Shortcode"
+msgstr ""
+
+#. Author of the plugin
+msgid "Snap Finance"
+msgstr ""
+
+#. Name of the plugin
+#: snap-marketing-admin-side.php:520
+msgid "Snap Marketing"
+msgstr ""
+
+#: snap-marketing-admin-side.php:400
+msgid "Snap Marketing Configuration"
+msgstr ""
+
+#: inc/snap-pre-approval.php:2 inc/snap-pre-qualification.php:2
+msgid "Snap offers flexible lease-to-own financing."
+msgstr ""
+
+#: snap-marketing-admin-side.php:537
+msgid "Snap Treatments"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The Snap Marketing plugin enables functionality for credit-challenged "
+"shoppers to get preapproved for lease-to-own financing while shopping on "
+"your webstore; thereby, giving you greater ability to close more sales."
+msgstr ""
+
+#: snap-marketing-admin-side.php:54
+msgid "Title"
+msgstr ""
+
+#: snap-marketing-admin-side.php:291
+msgid "Treatment Type"
+msgstr ""
+
+#: snap-marketing-admin-side.php:536
+msgid "Treatments"
+msgstr ""
+
+#: snap-marketing-admin-side.php:244
+msgid "Treatments Settings"
+msgstr ""
+
+#: snap-marketing-admin-side.php:527
+msgid "Update Treatment"
+msgstr ""
+
+#: snap-marketing-admin-side.php:523
+msgid "View Treatment"
+msgstr ""
